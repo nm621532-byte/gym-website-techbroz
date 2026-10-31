@@ -2,7 +2,7 @@
 
 Ye Tech Bro Z Coding ki YouTube video **"Gym Website kaise banaye 🔥 HTML CSS JS Full Project Hindi"** ka poora final code hai.
 
-▶️ YouTube video: (jaldi aa raha hai)
+▶️ YouTube video: https://www.youtube.com/watch?v=2rVzRouiz5U
 🌐 Live website: https://nm621532-byte.github.io/gym-website-techbroz/
 💻 Browser mein khud chala ke dekho (free editor): https://techbroz-code.sites.tab.bot/?v=gym-website
 
